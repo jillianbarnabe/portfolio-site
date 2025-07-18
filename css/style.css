@@ -36,4 +36,12 @@ body {
     text-align: center;
     padding: 1rem;
   }
+  .profile-pic {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
   
